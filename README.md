@@ -10,3 +10,8 @@ Use the cursor pack in your computer or whatever device is compatible.
 Modify the cursor pack for personal use.
 Publish your heavily modified version of the pack.
 Share and distribute the pack of cursors without remuneration.
+
+HOW TO INSTALL: 
+
+- Download zip file and extract: https://github.com/kmille36/windows-11-cursors-concept-premium/blob/main/windows-11-cursors-concept-premium.zip?raw=true
+- Go to light > default or dark > default folder, then right-click in Install.inf > Install. Enjoy new cursors !!!
